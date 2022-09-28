@@ -1,6 +1,6 @@
 # AnaliseExploratoria
 
-### Link do repositorio: 
+### Link do repositório: 
 https://github.com/sudo-lofi/AnaliseExploratoria
 
 
@@ -9,12 +9,12 @@ ES - Sexta
 
 
 ### Integrantes:
-Aguinaldo Lucas Machado
+Aguinaldo Lucas Machado,
 Arthur Ogibowski Pereira
 
 
 ### Link para dataset: 
 https://www.kaggle.com/datasets/whenamancodes/popular-movies-datasets-58000-movies
 
-### Link para dicionario de dados:
+### Link para dicionário de dados:
 https://www.kaggle.com/datasets/whenamancodes/popular-movies-datasets-58000-movies?resource=download
