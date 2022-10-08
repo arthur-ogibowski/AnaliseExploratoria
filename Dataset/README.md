@@ -1,0 +1,2 @@
+## Como o limite para upload de aquivos no git e 100MB e nossos datasets tem mais que isso, segue link para eles no drive
+https://drive.google.com/drive/folders/1sajESPKBxtUx49fVqlTsPM62jz9JS-Wo?usp=sharing
